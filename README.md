@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1686868027/adriandearias-banner-github_xmbgio.gif"  />
+  <img height="400" src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"  />
 </div>
 
 ###
